@@ -8,4 +8,5 @@
 ![2](https://user-images.githubusercontent.com/37132897/166411869-a197b57d-f143-45c5-9c1d-60fa6419ed64.JPG)
 
 /* 화면 너비 0 ~ 480px */
+
 ![3](https://user-images.githubusercontent.com/37132897/166411873-7a4f760c-7384-4c9c-9fbb-9eed59089d08.JPG)
